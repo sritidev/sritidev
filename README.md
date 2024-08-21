@@ -2,9 +2,11 @@
 - 👋 Hi, I’m Sriti
 - 🌱 I’m currently learning REACT AND NODE JS
 - 📫 How to reach me : singhsriti10@gmail.com
-- ❤️ Two things that I really love doing:-
-      Coding 💻
-      Travelling 🏔️
+<p>- ❤️ Two things that I really love doing:-</p>
+<ul>
+<li>Coding 💻</li>
+<li>Travelling 🏔️</li>
+</ul>
 
   <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto">Connect with me</h2>
