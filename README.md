@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Sriti
 - 🌱 I’m currently learning REACT AND NODE JS
-- 📫 How to reach me : singhsriti10@gmail.com and 
+- 📫 How to reach me : singhsriti10@gmail.com
 - ❤️ Two things that I really love doing:-
       Coding 💻
       Travelling 🏔️
