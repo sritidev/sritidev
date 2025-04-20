@@ -2,6 +2,14 @@
 - 👋 Hi, I’m Sriti
 - 🌱 I’m currently learning REACT AND NODE JS
 - 📫 How to reach me : singhsriti10@gmail.com
+<p>## 🛠 Tech Stack</p>
+<ul>
+<li>- ⚛️ React.js, Next.js</li>
+<li>- 🎨 Tailwind CSS, Bootstrap, Sass</li>
+<li>- 🌐 HTML5, CSS3, JavaScript (ES6+)</li>
+<li>- 📦 Git, GitHub, Bitbucket</li>
+<li>- 🧰 Tools: Postman, VS Code, Chrome DevTools</li>
+</ul>
 <p>- ❤️ Two things that I really love doing:-</p>
 <ul>
 <li>Coding 💻</li>
